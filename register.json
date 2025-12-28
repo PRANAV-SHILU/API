@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Pranav Shilu",
+      "mobile": "9033823598",
+      "password": "pranav1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "2",
+      "name": "Khimjibhai Shilu",
+      "mobile": "9824913781",
+      "password": "khimjibhai1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "3",
+      "name": "Jayshreeben Shilu",
+      "mobile": "9265624054",
+      "password": "jayshreeben1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "4",
+      "name": "Bhavika Joshi",
+      "mobile": "6354699645",
+      "password": "bhavika1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "5",
+      "name": "Mitalben Shilu",
+      "mobile": "9726384050",
+      "password": "mital1234",
+      "isLoggedIn": false
+    }
+  ]
+}
